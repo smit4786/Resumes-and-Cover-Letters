@@ -53,7 +53,7 @@ Technical Skills:
 
 | Category              | Skills                                            |
 |-----------------------|---------------------------------------------------|
-| Programming Languages | Python, JavaScript, Bash, PowerShell              |
+| Programming Languages | Swift,Python, JavaScript, Bash, PowerShell        |
 | Operating Systems     | MacOS, iOS, tvOS, Windows, Linux                  |
 | Device Management     | Jamf Pro, VMware Airwatch, Intune                 |
 | Cloud Platforms       | AWS, Azure                                        |

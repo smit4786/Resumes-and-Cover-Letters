@@ -197,8 +197,41 @@
             font-style: italic;
         }
 
-        hr {
-            display: none; /* Replaced with spacing and section borders */
+        @media (max-width: 768px) {
+            .container {
+                padding: 20px;
+                margin: 10px;
+            }
+            h1 {
+                font-size: 2.2em;
+            }
+        }
+
+        .action-btn {
+            background-color: var(--primary-color);
+            color: white;
+            border: none;
+            padding: 8px 16px;
+            border-radius: 20px;
+            cursor: pointer;
+            font-weight: 600;
+            margin-right: 15px;
+            font-family: inherit;
+            font-size: 14px;
+            transition: transform 0.2s;
+        }
+
+        .action-btn:hover {
+            transform: scale(1.05);
+        }
+
+        @media print {
+            .theme-switcher { display: none; }
+            body { background: none; color: #000; padding: 0; }
+            .container { box-shadow: none; border: none; margin: 0; padding: 0; max-width: 100%; }
+            h2 { border-bottom-color: #000; break-after: avoid; }
+            a { color: #000; text-decoration: underline; }
+            section > div { break-inside: avoid; page-break-inside: avoid; }
         }
         
         section {
@@ -209,8 +242,9 @@
 <body>
 
     <div class="theme-switcher">
+        <button class="action-btn" onclick="window.print()">Download PDF</button>
         <label class="switch">
-            <input type="checkbox" id="theme-toggle">
+            <input type="checkbox" id="theme-toggle" aria-label="Toggle Dark Mode">
             <span class="slider"></span>
         </label>
     </div>
@@ -220,19 +254,48 @@
             <h1>Justin S. Smith</h1>
             <div class="contact-info">
                 <a href="mailto:dbkrsmith@gmail.com">dbkrsmith@gmail.com</a> |
-                <a href="tel:313-306-3767">313-306-3767</a> |
-                <a href="https://www.linkedin.com/company/automatedtechnologies" target="_blank">LinkedIn</a> |
-                <a href="https://www.github.com/smit4786" target="_blank">GitHub</a>
+                <a href="tel:313-613-7838">313-613-7838</a> |
+                <a href="https://www.linkedin.com/company/automatedtechnologies" target="_blank" rel="noopener noreferrer">LinkedIn</a> |
+                <a href="https://www.github.com/smit4786" target="_blank" rel="noopener noreferrer">GitHub</a>
             </div>
         </header>
 
         <section id="summary">
             <h2>Summary</h2>
-            <p>Hands-on cross-functional problem solver specialized in global information technology project management. A subject matter expert in Automation, Endpoint Engineering, Networking, Desktop Support, and Cybersecurity. Experienced in regulated industries and proficient in asset management during mergers, acquisitions, and divestitures. Entrepreneurial; get things done attitude.</p>
+            <p>Hands-on cross-functional leader specialized in global IT project management and engineering. Subject matter expert in Automation, Endpoint Security, Networking, and Infrastructure within highly regulated industries. Proven track record of managing complex assets during mergers, acquisitions, and divestitures. Defined by an entrepreneurial mindset and a relentless "get things done" attitude.</p>
         </section>
 
         <section id="experience">
             <h2>Experience</h2>
+            <div>
+                <h3>College for Creative Studies, Detroit, MI — Apple Foundation Program Mentor</h3>
+                <p><em>August 2025 - Present</em></p>
+                <ul>
+                    <li>Provide technical guidance on Swift, Xcode, AI/ML, and Apple frameworks to students building iOS applications.</li>
+                    <li>Mentor students in UI/UX design principles, visual communication, and creating meaningful user experiences.</li>
+                    <li>Guide students in professional skills including business fundamentals, project management, and teamwork.</li>
+                    <li>Support career development through resume assistance, interview preparation, and networking strategies.</li>
+                    <li>Foster innovation by encouraging students to solve real-world problems using the Apple ecosystem.</li>
+                </ul>
+            </div>
+            <div>
+                <h3>Ilitch Sports and Entertainment, Detroit, MI — Crowd Security Manager</h3>
+                <p><em>June 2025 - Present</em></p>
+                <ul>
+                    <li>Utilize VenueAware and Colleague Connect Portal for event scheduling, workforce management, and security operations.</li>
+                    <li>Maintain operational readiness and document incidents using standard issue equipment and reporting protocols.</li>
+                    <li>Ensure compliance with strict organizational standards regarding presentation and safety procedures at large-scale venues.</li>
+                </ul>
+            </div>
+            <div>
+                <h3>University of Michigan Center for Innovation, Detroit, MI — Participant and Advisor to the Board</h3>
+                <p><em>2024 - Present</em></p>
+                <ul>
+                    <li>Advised University Leadership on the $250 Million Center for Innovation initiative to build the future of education and innovation in Detroit.</li>
+                    <li>Supported the design of curriculum, community outreach initiatives, events, programming, and materials to attract and retain innovative talent.</li>
+                    <li>Completed established courses including weekly in-person attendance, virtual and asynchronous learning programs, and University approved certificate programs.</li>
+                </ul>
+            </div>
             <div>
                 <h3>Bank of America (Contractor), Remote — Platform Migration Developer</h3>
                 <p><em>August 2021 - January 2022</em></p>
@@ -380,15 +443,15 @@
                 <tbody>
                     <tr>
                         <td><strong>Operating Systems</strong></td>
-                        <td>MacOS, iOS, ChromeOS, Microsoft Windows, RHEL, Ubuntu</td>
+                        <td>macOS, iOS, ChromeOS, Microsoft Windows, RHEL, Ubuntu</td>
                     </tr>
                     <tr>
                         <td><strong>Programming</strong></td>
-                        <td>Bash, Python, Powershell, SQL, Applescript, JavaScript</td>
+                        <td>Bash, Python, Swift, PowerShell, SQL, AppleScript, JavaScript</td>
                     </tr>
                     <tr>
                         <td><strong>Software</strong></td>
-                        <td>Jamf Pro, Visual Studio Code, ServiceNow, Splunk, Little Snitch, xCode, VMware Airwatch, Intune, Jira, Git, Docker</td>
+                        <td>Jamf Pro, Visual Studio Code, ServiceNow, Splunk, Xcode, Active Directory, Intune, Jira, Git, Docker, Terraform, Kubernetes</td>
                     </tr>
                     <tr>
                         <td><strong>Networking</strong></td>
@@ -468,7 +531,7 @@
             <h2>Publications</h2>
             <p>
                 <em>"Ist Literatur gefährlich?"</em> ("Is Literature Dangerous?") - LinkedIn Post | 2024 | 
-                <a href="https://www.linkedin.com/posts/smit4786_ist-literatur-gef%C3%A4hrlich-activity-7304288404219789312-JgxO?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAlpEIEBABDoVzTUGmuq7YHjrVDFdNPVySw" target="_blank">Read Post</a>
+                <a href="https://www.linkedin.com/posts/smit4786_ist-literatur-gef%C3%A4hrlich-activity-7304288404219789312-JgxO?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAlpEIEBABDoVzTUGmuq7YHjrVDFdNPVySw" target="_blank" rel="noopener noreferrer">Read Post</a>
             </p>
         </section>
 

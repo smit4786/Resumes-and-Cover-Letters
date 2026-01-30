@@ -1,6 +1,6 @@
 ---
 name: Justin S. Smith
-email: smith.justin21@student.oaklandcc.edu
+email: dbkrsmith@gmail.com
 phone: +1-313-306-3767
 linkedin: https://www.linkedin.com/in/smit4786
 github: https://www.github.com/smit4786
@@ -61,7 +61,7 @@ Whether that's a CTO/VP Engineering role at an edtech company, a leadership posi
 
 I'd welcome a conversation about how my combination of technical excellence and educational mission can contribute to your team's success. Feel free to reach out:
 
-- **Email:** smith.justin21@student.oaklandcc.edu | dbkrsmith@gmail.com
+- **Email:** dbkrsmith@gmail.com
 - **Phone:** +1-313-306-3767
 - **GitHub:** https://www.github.com/smit4786 (Detroit Automation Academy projects)
 - **LinkedIn:** https://www.linkedin.com/in/smit4786

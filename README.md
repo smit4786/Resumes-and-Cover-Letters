@@ -1,7 +1,7 @@
 # Justin S. Smith — Resume & Career Materials
 
 **Contact:**
-- Email: smith.justin21@student.oaklandcc.edu | dbkrsmith@gmail.com
+- Email: dbkrsmith@gmail.com
 - Phone: +1-313-306-3767
 - LinkedIn: https://www.linkedin.com/in/smit4786
 - GitHub: https://www.github.com/smit4786

@@ -1,25 +1,66 @@
-#######################################################################################################
-Name: Justin Spencer Smith
-Email: smith.justin21@student.oaklandcc.edu
-LinkedIn: https://www.linkedin.com/in/smit4786
-GitHub: https://www.github.com/jspencersmith
-#######################################################################################################
+# Justin S. Smith — Resume & Career Materials
 
-About Me:
+**Contact:**
+- Email: smith.justin21@student.oaklandcc.edu | dbkrsmith@gmail.com
+- Phone: +1-313-306-3767
+- LinkedIn: https://www.linkedin.com/in/smit4786
+- GitHub: https://www.github.com/smit4786
 
-* Highly skilled MacOS, iOS, and tvOS engineer. Certified in Computer Networks, Project Management, G Suite, Jamf Pro, and others. 20+ years of specialized technology consulting expertise during mergers, acquisitions, and divestitures.
-* Skilled in asset inventory and ITSM using ServiceNow - including secure disposal.
-* Certified in Project Management - including Jira. Lifelong learner passionate about technology and good design.
+---
 
-Education:
+## About Me
+
+Technology leader and educator with 15+ years of enterprise infrastructure expertise. Currently founding **Detroit Automation Academy** to democratize STEM education in robotics, 3D printing, and coding for Detroit-area youth.
+
+**Core Focus Areas:**
+- **STEM Education & Curriculum Design** — Hands-on learning programs in robotics, 3D printing, and automation
+- **Python & Automation** — Expert-level development for infrastructure, testing, and educational tools
+- **Enterprise Infrastructure** — Apple security frameworks, MDM, Zero Trust architecture, cloud platforms
+- **Team Leadership** — Mentoring talent, building high-performing teams, strategic advisory
+- **Technical Excellence** — Enterprise-scale systems design, CI/CD pipelines, disaster recovery
+
+**Philosophy:** Lifelong learner passionate about bridging the gap between technical excellence and human-centered education.
+
+---
+
+## Resume Files
+
+- **[Justin-Smith-Resume-Updated.html](Justin-Smith-Resume-Updated.html)** — Interactive HTML resume (recommended for viewing/printing)
+- **[justin_smith_resume.txt](justin_smith_resume.txt)** — Text version
+
+---
+
+## Current Focus
+
+### Detroit Automation Academy (January 2026 - Present)
+
+**Founder & Lead Facilitator** — Building hands-on STEM education programs for Detroit youth.
+
+**Recent Achievement:** Led inaugural **BGC Grand Opening Event** (Feb 4, 2026) featuring:
+- 5-session curriculum across 3 concurrent technology stations
+- 40-50+ confirmed youth participants from Detroit schools
+- Cross-functional team coordination (facilitation, logistics, marketing, partnerships)
+- Strategic partnership with Boys and Girls Club of Greater Detroit
+
+**Focus Areas:**
+- Curriculum design for robotics, 3D printing, coding
+- Program logistics & event management
+- Team leadership & educator mentorship
+- Community engagement & educational equity
+
+---
+
+## Education
 
 | Institution             | Program/Field of Study               | Dates          |
 |-------------------------|---------------------------------------|----------------|
-| University of Michigan  | Ongoing Studies                     | 2023 - Present |
-| University of Minnesota | German, Political Science, Computer Science | 2008 - 2012 |
+| University of Michigan  | Ongoing Studies (Leadership, Python, Innovation) | 2023 - Present |
 | Century College         | Ongoing Studies                     | 2025 - Present |
+| University of Minnesota | German, Political Science, Computer Science | 2008 - 2012 |
 
-Certifications:
+---
+
+## Certifications & Achievements
 
 - Cisco: Certified Network Associate (2008)
 - University of Minnesota: Language Proficiency (German) (2010)
@@ -29,11 +70,13 @@ Certifications:
 
 Key Achievements:
 
-- Successfully led a team to implement a private cloud infrastructure for Jamf Pro Mobile Device Management at Moody’s Corporation.
-- Developed a custom application for device migration during a corporate merger at Thermo Fisher Scientific Inc.
-- Spearheaded a globally distributed engineering team to create a full-cycle device management framework at Fair Isaac Corporation (FICO) reducing deployment times by up to 90%.
-- Reduced IT asset disposal costs by 30% through secure disposal practices using ServiceNow.
-- Delivered enterprise-wide MacOS and iOS solutions for JP Morgan Chase and Co., expanding devices under management by 3x.
+- **Founded Detroit Automation Academy** (2026) — Delivering hands-on STEM education to underserved youth
+- **Led BGC Grand Opening Event** (2026) — Coordinated inaugural 5-session program reaching 40-50+ students
+- Successfully led a team to implement private cloud Jamf Pro infrastructure at Moody's Corporation
+- Developed custom device migration application during corporate merger at Thermo Fisher Scientific
+- Spearheaded globally distributed engineering team at FICO, reducing deployment times by 90%
+- Delivered enterprise-wide solutions for JP Morgan Chase, expanding managed devices by 3x
+- Reduced IT asset disposal costs by 30% through secure practices at multiple organizations
 
 Experience:
 

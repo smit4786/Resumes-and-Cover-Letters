@@ -41,7 +41,6 @@ Experience:
 | Organization                  | Role                     | Location          | Dates                  | Key Responsibilities                                                                |
 |-------------------------------|--------------------------|-------------------|------------------------|-------------------------------------------------------------------------------------|  
 | Detroit Automation Academy    | Founder & Lead           | Detroit, MI       | Jan 2026 - Present     | Building STEM education program with 3D printing, automation, and robotics curriculum. |
-| Boys and Girls Club of Greater Detroit | Event Coordinator | Detroit, MI       | Feb 2026             | Coordinating 5-session BGC Grand Opening Event for 40-50 youth participants.          |
 | Automated Technologies        | Chief Executive          | Detroit, MI       | 2008 - 2025            | Led consulting firm specializing in enterprise software and hardware.               |
 | Bank of America Corporation   | Consulting Engineer      | Remote            | Dec 2021 - Dec 2022    | Python 3, VMware Airwatch, Jamf Pro, MacOS SME.                                     |
 | JP Morgan Chase and Co.       | Vice President           | Jersey City, NJ   | Feb 2018 - Dec 2020    | MacOS, iOS, tvOS, Jamf Pro, DLP, ServiceNow, Jira SME.                              |

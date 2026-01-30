@@ -361,3 +361,7 @@ MigrationBackup/
 
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
+
+# Private documents
+LINKEDIN_FINAL_COPY.md
+.DS_Store

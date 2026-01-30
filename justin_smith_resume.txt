@@ -1,15 +1,16 @@
 #######################################################################################################
 Name: Justin Spencer Smith
-Email: smit4786@gmail.com
-LinkedIn: https://www.linkedin.com/in/smit4786
+Email: dbkrsmith@gmail.com
+LinkedIn: https://www.linkedin.com/company/automatedtechnologies
 GitHub: https://www.github.com/smit4786
 #######################################################################################################
 
 About Me:
 
-* Highly skilled cloud engineer. Certified in Computer Networks, Project Management, G Suite, Jamf Pro, and others. 20+ years of specialized technology consulting expertise during mergers, acquisitions, and divestitures.
-* Skilled in asset inventory and ITSM using ServiceNow - including secure disposal.
-* Certified in Project Management - including Jira. Lifelong learner passionate about technology and good design.
+* Founder of Detroit Automation Academy, a STEM education initiative empowering youth with automation, robotics, and 3D printing technology.
+* Technology leader with 15+ years of enterprise infrastructure expertise spanning macOS management, mobile device deployment, and infrastructure-as-code.
+* Passionate about bridging the gap between corporate technology excellence and educational access, mentoring the next generation of tech innovators.
+* Proven track record advising C-level executives on technology roadmaps, managing global engineering teams, and implementing Zero Trust security architectures.
 
 Education:
 
@@ -38,8 +39,10 @@ Key Achievements:
 Experience:
 
 | Organization                  | Role                     | Location          | Dates                  | Key Responsibilities                                                                |
-|-------------------------------|--------------------------|-------------------|------------------------|-------------------------------------------------------------------------------------|
-| Automated Technologies        | Chief Executive          | Detroit, MI       | 2008 - Present         | Leads a consulting firm specializing in enterprise software and hardware.           |
+|-------------------------------|--------------------------|-------------------|------------------------|-------------------------------------------------------------------------------------|  
+| Detroit Automation Academy    | Founder & Lead           | Detroit, MI       | Jan 2026 - Present     | Building STEM education program with 3D printing, automation, and robotics curriculum. |
+| Boys and Girls Club of Greater Detroit | Event Coordinator | Detroit, MI       | Feb 2026             | Coordinating 5-session BGC Grand Opening Event for 40-50 youth participants.          |
+| Automated Technologies        | Chief Executive          | Detroit, MI       | 2008 - 2025            | Led consulting firm specializing in enterprise software and hardware.               |
 | Bank of America Corporation   | Consulting Engineer      | Remote            | Dec 2021 - Dec 2022    | Python 3, VMware Airwatch, Jamf Pro, MacOS SME.                                     |
 | JP Morgan Chase and Co.       | Vice President           | Jersey City, NJ   | Feb 2018 - Dec 2020    | MacOS, iOS, tvOS, Jamf Pro, DLP, ServiceNow, Jira SME.                              |
 | Moody’s Corporation           | Consulting Engineer      | New York City, NY | 2017 - 2018            | Built private cloud infrastructure for Jamf Pro Mobile Device Management.           |
@@ -53,13 +56,14 @@ Technical Skills:
 
 | Category              | Skills                                            |
 |-----------------------|---------------------------------------------------|
-| Programming Languages | Python, JavaScript, Bash, PowerShell              |
+| Programming Languages | Python, JavaScript, Bash, PowerShell, Swift       |
 | Operating Systems     | MacOS, iOS, tvOS, Windows, Linux                  |
+| STEM & Automation     | 3D Printing (Bambu X1), G-code, Robotics, Automation Design |
 | Device Management     | Jamf Pro, VMware Airwatch, Intune                 |
 | Cloud Platforms       | AWS, Azure                                        |
-| Tools & Frameworks    | ServiceNow, Jira, Git, Docker                     |
+| Tools & Frameworks    | ServiceNow, Jira, Git, Docker, Xcode              |
 | Networking            | MPLS, VPN, Cisco Networking, Wireshark, Splunk    |
-| Other Skills          | ITSM, Project Management, Accessibility Design    |
+| Other Skills          | ITSM, Project Management, STEM Education, Accessibility Design |
 
 Languages:
 
